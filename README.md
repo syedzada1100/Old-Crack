@@ -2,6 +2,7 @@
 
 ![Made in Pakistan](https://img.shields.io/badge/MADE%20IN%20-PAKISTAN-green?style=for-the-badge&logo=appveyor)
 ![SYED-ZADA](https://img.shields.io/badge/SYED%20-ZADA-green?style=for-the-badge&logo=appveyor)
+
 ![GitHub followers](https://img.shields.io/github/followers/syedzada1100?style=for-the-badge)
 
 # Installation 
