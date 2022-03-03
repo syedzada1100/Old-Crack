@@ -18,6 +18,7 @@ pkg install python2
 pip2 install requests
 pip2 install mechanize
 pip2 install bs4
+pip2 install futures
 rm -rf Old-Crack
 git clone https://github.com/syedzada1100/Old-Crack.git
 cd Old-Crack
